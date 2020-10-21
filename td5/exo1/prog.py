@@ -1,6 +1,7 @@
 import psycopg2
 import csv
 
+
 HOST = "*********"
 USER = "*********"
 PASSWORD = "*********"
